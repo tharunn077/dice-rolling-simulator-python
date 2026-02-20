@@ -25,6 +25,7 @@ A customizable, graphical Dice Rolling Simulator built with Python. This user-fr
 ## 💻 How to Run Locally
 1. Ensure Python 3.x is installed on your machine.
 2. Install the required external libraries:
-   pip install pygame pillow
-3. Run the application:
+   pip install pygame
+   pip install pillow
+4. Run the application:
    python dice.py   
