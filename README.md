@@ -3,9 +3,11 @@
 A customizable, graphical Dice Rolling Simulator built with Python. This user-friendly application is designed to enhance the dice-rolling experience for tabletop gaming, educational activities, or casual use. 
 
 ## 📸 Screenshots
-* **Main Menu
+* **Main Menu**
 ![Selection Screen](https://github.com/tharunn077/dice-rolling-simulator-python/blob/59ddfea732f1a24738e92438b41afe89f1f81ece/dice1.png)
-![Die Rolling Screen]dice2.png
+
+* **Dice Rolling Simulation Screen**
+![Die Rolling Screen](https://github.com/tharunn077/dice-rolling-simulator-python/blob/7201a03aebb01288899df49fd978429d913ff115/dice2.png)
 
 ## 🚀 Features
 * **Customizable Styles:** Select from Classic, Futuristic, or Wood dice aesthetics.
