@@ -4,7 +4,7 @@ A customizable, graphical Dice Rolling Simulator built with Python. This user-fr
 
 ## 📸 Screenshots
 
-[Selection Screen][dice1.png](https://github.com/tharunn077/dice-rolling-simulator-python/blob/59ddfea732f1a24738e92438b41afe89f1f81ece/dice1.png)
+[Selection Screen][dice1.png][(https://github.com/tharunn077/dice-rolling-simulator-python/blob/59ddfea732f1a24738e92438b41afe89f1f81ece/dice1.png)](https://github.com/tharunn077/dice-rolling-simulator-python/blob/main/dice1.png?raw=true)
 ![Die Rolling Screen]dice2.png
 
 ## 🚀 Features
